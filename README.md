@@ -11,4 +11,4 @@ Após a execução, este deverá ser o resultado no seu navegador:
 ![Print mostrando o resultado esperado](./fotos/exec.PNG)
 
 # Introdução
-Projeto feito com Node.JS que simula um sistema de estacionamento, que controla entrada e saída de carros, cadastros de placas e relatórios gerenciais.
+Projeto codificado em NodeJS. Simula um sistema de estacionamento de faculdade, que controla entrada e saída de carros, cadastros de placas e relatórios gerenciais. Conta com lógicas diferentes para alunos, professores, empresas e clientes avulsos (sem cadastro), também contendo taxas para estacionamento de carro passando de meia-noite, listas de bloqueio para quando cliente não efetua pagamento, além de relatórios gerenciais para listagem de clientes cadastrados, não-cadastrados, bloqueados e top 10 clientes. 
